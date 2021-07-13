@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 pandas = "*"
 numpy = "*"
+matplotlib = "*"
+pyodbc = "*"
+scikit-learn = "*"
+seaborn = "*"
 
 [dev-packages]
 
